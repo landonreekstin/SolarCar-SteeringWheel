@@ -1,5 +1,5 @@
 /* 
-Author: Professor Brian Kamusinga
+Author: Landon Reekstin, Delwys Glokpor, Professor Brian Kamusinga
 */
 #include <Arduino.h>
 #include <FlexCAN_T4.h>   // CAN system lib
